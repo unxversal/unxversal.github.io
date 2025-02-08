@@ -31,3 +31,21 @@ CXMPUTE will expose dedicated endpoints for its core compute offerings:
 - **SXRVERLESS** – Serverless compute and containers  
 
 This architecture guarantees **scalability, security, and decentralization**, positioning CXMPUTE as a next-generation compute network.  
+
+# Sample Processes
+
+## Sample Process for renting a VM
+
+![VM Process](https://i.postimg.cc/D0Bf9T2r/Screenshot-2025-02-07-at-7-06-35-PM.png)
+
+## Sample Process for Sxrverless Inference
+
+![Sxrverless Process](https://i.postimg.cc/Y0pqD9w2/Screenshot-2025-02-07-at-7-06-40-PM.png)
+
+## Sample Process for Infxrence
+
+![Infxrence Process](https://i.postimg.cc/k4NgySzh/Screenshot-2025-02-07-at-7-06-56-PM.png)
+
+## Sample Process for AI Chat
+
+![Chxt Process](https://i.postimg.cc/1t1z6BCq/Screenshot-2025-02-07-at-7-13-01-PM.png)
