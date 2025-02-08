@@ -13,3 +13,5 @@ datacenter—offering cost-efficient, secure,
 scalable compute services.
 
 [Whitepaper](https://drive.google.com/file/d/1JN7-61fcTdFn3OM5Z-pAXi1VEUmuLX8p/view?usp=sharing)
+
+[Architecture](https://unxversal.github.io/architecture)
