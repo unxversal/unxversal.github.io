@@ -2,7 +2,7 @@
 
 ### The distributed datacenter for the future.
 
-Cxmpute is a decentralized
+Cxmpute is a multi-chain decentralized
 compute network designed to harness underutilized
 global computing resources and distribute power
 equitably. By leveraging blockchain technology,
