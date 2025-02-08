@@ -1,5 +1,9 @@
 ### **CXMPUTE Architecture**  
 
+![Cxmpute Architecture](https://i.postimg.cc/zXSYbVJf/Screenshot-2025-02-07-at-6-48-47-PM.png)
+
+---
+
 CXMPUTE will be fully hosted on-chain, ensuring a decentralized and robust infrastructure. Here's how it works:  
 
 - **Frontend & Backend**: The entire web application, including both frontend and backend components, will be hosted on the Internet Computer Protocol (ICP).  
